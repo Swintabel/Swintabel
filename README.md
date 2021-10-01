@@ -13,7 +13,7 @@
 
 <!-- 🔭 I’m currently working on [Quantium Data Analytics Virtual Internship Project](https://www.theforage.com/virtual-internships/NkaC7knWtjSbi6aYv?ref=tCfFoXSNJ4aLnBQye)-->
 
-- 🌱 I’m currently learning **Advance Machine Learning on Kaggle**
+- 🌱 I’m currently learning **Feature Engineering on Kaggle**
 
 - 👯 I’m totally open to collaborate on **projects that drive socio-economic developments and business continuity**
 
