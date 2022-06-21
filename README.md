@@ -23,7 +23,7 @@
 
 - 📫 You can reach me on **swintabel95@gmail.com**
 
-- ⚡ I enjoy **researching, building data anlytic dashboards and singing.**
+- ⚡ I enjoy **researching, building data anlaytic dashboards and singing.**
 
 <br>
 
