@@ -17,7 +17,7 @@
 
 - 👯 I’m totally open to collaborate on **projects that drive socio-economic developments and business continuity**
 
-- 👨‍💻 Most of my projects are available [here]([https://github.com/swintabel](https://github.com/Swintabel?tab=repositories))
+- 👨‍💻 Most of my projects are available [here](https://github.com/Swintabel?tab=repositories)
 
 - 💬 I am willing to help with **Machine Learning, Data Science, Python, SQL, R, Data Analytics, Tableau, Power BI, Excel, Google Sheet**
 
