@@ -3,7 +3,7 @@
 <br>
 
 <h1 align="justify">Hi 👋, I'm Swintabel Agyei but you can simply call me Swinny.</h1>
-<h3 align="justify">I am a result oriented data scientist with 2+ years of work experience and adept at collecting, analyzing and interpreting large datasets, and developing machine learning and statistical models. Research interest is in socio-economic issues as well as business growth and continuity. Loves researching, building dashboards and singing.
+<h3 align="justify">I am a result-oriented data scientist who is adept at collecting, analyzing and interpreting large datasets, and developing machine learning and statistical models. Research interest is in socio-economic issues as well as business growth and continuity. Loves researching, building dashboards, and singing.
 
 <br>
 <br>
