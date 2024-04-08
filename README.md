@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Swintabel/Swintabel/blob/main/profile.PNG" alt="Curious Data Scientist" width='90%' height='500'/> 
+<p align="center"><img src="https://github.com/Swintabel/Swintabel/blob/main/profile.PNG" alt="Curious Data Scientist" width='95%' height='500'/> 
 <br>
 <br>
 
