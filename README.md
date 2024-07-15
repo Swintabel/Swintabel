@@ -1,4 +1,4 @@
-![image](https://github.com/Swintabel/Swintabel/assets/66244029/2e086776-700c-450e-a703-74c71132a69a) 
+
 <br>
 <br>
 
